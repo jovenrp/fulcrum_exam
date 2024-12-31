@@ -9,7 +9,7 @@ This project is for Fulcrum's take-home exam.
 # My API Documentation
 
 ## Introduction
-Brief description of what the API does.
+This api returns a list of data of a location
 
 ## Base URL
 `https://run.mocky.io`
